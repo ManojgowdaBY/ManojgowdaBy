@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Manoj Gowda B Y</h1>
 <h3 align="center">A passionate Agentic AI and RAG developer from India</h3>
 
-🔭 Currently working on machine learning projects for healthcare & customer analytics (heart disease prediction, customer churn prediction)
-🌱 I'm currently learning Generative AI, Agentic AI, RAG (Retrieval-Augmented Generation), and advanced AI system design
-👯 I'm looking to collaborate on AI/ML projects, Generative AI, Agentic AI systems, RAG pipelines, and open-source ML tooling
-🤝 I'm looking for help with cloud deployment, MLOps, and scaling AI/ML models to production
-🛠️ Comfortable across the full ML lifecycle — data cleaning, EDA, model tuning, and deployment (Streamlit/Flask)
-💬 Talk to me about Python, Scikit-learn, Pandas, RAG, and AI system design
-📫 How to reach me: manojgowdaby88@gmail.com
-⚡ Fun fact: I turn raw, messy datasets into deployable ML models faster than they get duplicated 😄
+- 🔭 Building end-to-end ML systems - Currently working on on **machine learning projects for healthcare & customer analytics**
 
+- 🌱 I’m currently learning **Comfortable across the full ML lifecycle — data cleaning, EDA, model tuning, and deployment (Streamlit/Flask)**
+
+- 👯 I’m looking to collaborate on **AI/ML projects, Generative AI, Agentic AI systems, RAG pipelines, and open-source ML tooling**
+
+- 🤝 I’m looking for help with **Open to collaborating on AI/ML projects, startups, and open-source tooling**
+
+- 💬 Talk to me about **Python, Scikit-learn, Pandas, RAG, and AI system design**
+
+- 📫 How to reach me **manojgowdaby88@gmail.com**
+
+- ⚡ Fun fact **I turn raw, messy datasets into deployable ML models faster than they get duplicated 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
