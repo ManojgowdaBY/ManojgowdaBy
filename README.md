@@ -39,12 +39,12 @@
 <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.kaggle.com/">
+<a href="https://www.kaggle.com/manojgowdaby">
 <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="40"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://leetcode.com/manoj-gowda_06">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40"/>
 </a>
 </p>
 
