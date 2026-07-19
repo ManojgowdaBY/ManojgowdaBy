@@ -53,10 +53,8 @@
 # 🛠 Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,opencv,mongodb,mysql,postgresql,flask,react,nodejs,git,github,docker,linux,aws,gcp,firebase,vscode" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,mongodb,mysql,postgresql,flask,react,nodejs,git,github,docker,linux,aws,gcp,firebase,vscode,pandas,numpy,matplotlib" />
 </p>
-
----
 
 # 🚀 GitHub Analytics
 
@@ -122,8 +120,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manojgowdaby&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manojgowdaby&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manojgowdaby&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manojgowdaby&theme=radical"/>
 </p>
 
 ---
