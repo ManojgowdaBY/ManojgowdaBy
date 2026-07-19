@@ -40,7 +40,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://www.kaggle.com/">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="40"/>
+<img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="40"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://leetcode.com/manoj-gowda_06">
