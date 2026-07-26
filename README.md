@@ -35,7 +35,7 @@
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/manojgowda-b-y-964849338">
+<a href="https://www.linkedin.com/in/manoj-gowda-b-y">
 <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 &nbsp;&nbsp;
