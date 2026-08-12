@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manoj Gowda B Y</h1>
-<h3 align="center">🤖 Agentic AI | RAG | Machine Learning | Data Science | Python Developer</h3>
+<h3 align="center">🤖 Agentic AI | Generative AI | RAG | Machine Learning | Data Science | Python Developer</h3>
 
 <p align="center">
   <a href="https://github.com/manojgowdaby">
@@ -57,19 +57,6 @@
 </p>
 
 # 🚀 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojgowdaby&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojgowdaby&theme=radical&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojgowdaby&layout=compact&theme=radical&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manojgowdaby&theme=radical&no-frame=true&row=1&column=7"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojgowdaby&theme=github-compact&hide_border=true" width="95%"/>
