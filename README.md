@@ -56,14 +56,6 @@
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,mongodb,mysql,postgresql,flask,react,nodejs,git,github,docker,linux,aws,gcp,firebase,vscode,pandas,numpy,matplotlib" />
 </p>
 
-# 🚀 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojgowdaby&theme=github-compact&hide_border=true" width="95%"/>
-</p>
-
----
-
 # 📌 Featured Projects
 
 ### ❤️ Heart Disease Prediction
